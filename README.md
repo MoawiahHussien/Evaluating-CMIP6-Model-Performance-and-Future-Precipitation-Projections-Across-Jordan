@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the code and data processing scripts used in the study "Evaluating CMIP6 Model Performance and Future Precipitation Projections Across Jordan's Water Basins Under SSP Scenarios." The research evaluates six CMIP6 models from the RICCAR initiative and projects future precipitation changes under SSP4.5 and SSP8.5 scenarios across Jordan's 12 hydrological basins.
+This repository contains the code and data processing scripts used in the study "Evaluating CMIP6 Model Performance and Future Precipitation Projections Across Jordan's Water Basins Under SSP Scenarios." The research evaluates six CMIP6 models from the RICCAR initiative and projects future precipitation changes under SSP4.5 and SSP8.5 scenarios across Jordan's hydrological basins.
 
 
 ## Detailed Workflow
