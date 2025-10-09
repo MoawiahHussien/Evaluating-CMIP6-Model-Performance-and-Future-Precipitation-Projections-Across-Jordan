@@ -1,6 +1,7 @@
 # Evaluating CMIP6 Model Performance and Future Precipitation Projections Across Jordan's Water Basins Under SSP Scenarios
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1072862109.svg)](https://doi.org/10.5281/zenodo.17305980)
+
 
 ## Overview
 
